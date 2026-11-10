@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fake GPS</string>
+    <string name="search_hint">Cari tempat atau "lat, lng"</string>
+    <string name="tap_map_hint">Ketuk peta untuk memilih lokasi</string>
+    <string name="start">Mulai Fake GPS</string>
+    <string name="stop">Hentikan</string>
+    <string name="favorites">Favorit</string>
+    <string name="save_favorite">Simpan</string>
+    <string name="my_location">Lokasi saya</string>
+    <string name="notif_channel">Fake GPS aktif</string>
+    <string name="notif_title">Fake GPS aktif</string>
+    <string name="permission_needed">Izin lokasi diperlukan agar Fake GPS bisa berjalan</string>
+    <string name="mock_not_enabled_title">Aktifkan Mock Location</string>
+    <string name="mock_not_enabled_msg">Aplikasi ini belum dipilih sebagai aplikasi lokasi palsu.\n\n1. Buka Pengaturan &gt; Tentang ponsel, ketuk \"Nomor build\" 7x untuk mengaktifkan Opsi pengembang.\n2. Buka Opsi pengembang &gt; \"Pilih aplikasi lokasi palsu\".\n3. Pilih \"Fake GPS\".</string>
+    <string name="open_dev_settings">Buka Opsi Pengembang</string>
+    <string name="cancel">Batal</string>
+    <string name="not_found">Lokasi tidak ditemukan</string>
+    <string name="no_favorites">Belum ada favorit</string>
+    <string name="favorite_name">Nama favorit</string>
+    <string name="saved">Tersimpan</string>
+    <string name="delete">Hapus</string>
+    <string name="select_location_first">Pilih lokasi di peta terlebih dahulu</string>
+</resources>
